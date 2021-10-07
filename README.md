@@ -1,0 +1,1 @@
+# deep_static_ransomware_analysis
