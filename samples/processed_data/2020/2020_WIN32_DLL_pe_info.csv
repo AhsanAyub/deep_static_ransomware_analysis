@@ -1,0 +1,5 @@
+subsystem	subsystem_version	machine_type	time_stamp	code_size	initialized_data_size	unitialized_data_size	os_version	magic	pe_entry_point	md5
+Windows command line	5.1	Intel 386 or later, and compatibles	2016:02:22 09:40:51+01:00	51712	35840	0	5.1	PE32 executable for MS Windows (DLL) (console) Intel 80386 32-bit	12332	b22689235813ae703b5bd8b880e8f35d
+Windows GUI	4.0	Intel 386 or later, and compatibles	2017:05:11 14:21:37+02:00	4096	5259264	0	4.0	PE32 executable for MS Windows (DLL) (GUI) Intel 80386 32-bit	4585	17243fc984cc18f6bfc96752869722fe
+Windows GUI	6.0	Intel 386 or later, and compatibles	2015:08:12 23:08:24+02:00	83456	20992	0	6.1	PE32 executable for MS Windows (DLL) (GUI) Intel 80386 32-bit	31308	978ef80ed890d0c362f6149afab6bb5e
+Windows GUI	4.0	Intel 386 or later, and compatibles	2017:05:11 14:21:37+02:00	4096	5259264	0	4.0	PE32 executable for MS Windows (DLL) (GUI) Intel 80386 32-bit	4585	7c7262d9e49a40a52d0040942810456c
