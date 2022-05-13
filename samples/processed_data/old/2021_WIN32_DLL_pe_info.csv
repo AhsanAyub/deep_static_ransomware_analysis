@@ -1,0 +1,2 @@
+subsystem	subsystem_version	machine_type	time_stamp	code_size	initialized_data_size	unitialized_data_size	os_version	magic	pe_entry_point	md5
+Windows GUI	4.0	Intel 386 or later, and compatibles	2017:05:11 12:21:37+00:00	4096	5259264	0	4.0	PE32 executable for MS Windows (DLL) (GUI) Intel 80386 32-bit	4585	b842e586cfa117df5d7769e20a894afb

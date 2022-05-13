@@ -1,0 +1,25 @@
+subsystem	subsystem_version	machine_type	time_stamp	code_size	initialized_data_size	unitialized_data_size	os_version	magic	pe_entry_point	md5
+Windows GUI	5.1	Intel 386 or later, and compatibles	2017:08:21 07:56:49+00:00	59392	698880	0	5.1	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	5808	d13f890034a68ccb4af4e0bf51e2b5ec
+Windows GUI	4.0	Intel 386 or later, and compatibles	2017:09:26 13:04:57+00:00	61440	2048	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit Mono/.Net assembly	69114	c43b2d636d4ee217e2cb324dbb4c91ed
+Windows GUI	5.1	Intel 386 or later, and compatibles	2016:02:28 10:59:24+00:00	144896	25088	0	5.1	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	40456	132053c1f40d453bd95a253262ce588f
+Windows command line	4.0	Intel 386 or later, and compatibles	2012:08:11 14:04:50+00:00	937984	1558528	34304	4.0	PE32 executable for MS Windows (console) Intel 80386 32-bit	5112	5a0e3a6e3106e754381bd1cc3295c97f
+Windows GUI	4.0	Intel 386 or later, and compatibles	1992:06:19 22:22:17+00:00	98816	22016	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	98164	9089549f439c24fa24913388fcbdd285
+Windows GUI	5.0	Intel 386 or later, and compatibles	2017:02:15 16:09:04+00:00	548864	4096	544768	5.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	1094832	8d75650da4c3d053fbe0e84bad55c068
+Windows GUI	5.1	Intel 386 or later, and compatibles	2016:12:12 11:03:00+00:00	264192	20480	0	5.1	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	91657	a0db6084f07e8c792c992e192433186a
+Windows command line	4.0	Intel 386 or later, and compatibles	2010:12:09 18:58:13+00:00	4096	2048	0	4.0	MS-DOS executable, MZ for MS-DOS	11870	de40432316f2db21f7c12283bf394b75
+Windows GUI	5.1	Intel 386 or later, and compatibles	2017:09:09 19:05:13+00:00	288256	120320	0	5.1	MS-DOS executable, MZ for MS-DOS	426215	ec38255b4aaefaa3cad7fd1f04926fc7
+Windows GUI	4.0	Intel 386 or later, and compatibles	2012:01:29 18:49:03+00:00	6144	66560	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	8657	c12a9eae7b63f5bdd90deb3969079492
+Windows command line	5.0	Intel 386 or later, and compatibles	2009:12:04 14:35:59+01:00	4096	8192	0	5.0	PE32 executable for MS Windows (console) Intel 80386 32-bit	48030	2a5af17090ba099c1c1496c15cb1b97b
+Windows GUI	5.0	Intel 386 or later, and compatibles	2016:06:24 11:38:51+00:00	167424	181760	0	5.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	27102	65535f2b1ecee54718233e40e3f333b2
+Windows GUI	6.0	Intel 386 or later, and compatibles	2017:08:01 14:04:18+00:00	588800	102400	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 Mono/.Net assembly	596954	0d26992fa443974842e21f3af7fb669e
+Windows GUI	6.0	Intel 386 or later, and compatibles	2017:12:27 23:20:35+00:00	29184	2560	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 Mono/.Net assembly	37338	310342183f3632361ced85fdf54b6370
+Windows GUI	4.0	Intel 386 or later, and compatibles	2015:02:17 15:43:32+00:00	221184	65536	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	153505	5ede82decd0cafe2beae56bfe8b9ac59
+Windows GUI	6.0	Intel 386 or later, and compatibles	2017:01:28 06:12:26+00:00	135680	78848	0	6.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	18842	729871063d04ce837b6b65a57f4a2153
+Windows GUI	4.0	Intel 386 or later, and compatibles	2014:05:15 17:01:06+00:00	8192	348160	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	8432	d95bf36c4edf480fe9fd208e44c72be4
+Windows command line	5.0	Intel 386 or later, and compatibles	2017:08:22 03:53:35+00:00	786944	122880	0	5.0	PE32 executable for MS Windows (console) Intel 80386 32-bit	784332	45498bbe9ef5e6158864d2c8b825e704
+Windows GUI	6.0	Intel 386 or later, and compatibles	2017:09:20 10:30:04+00:00	62464	21038592	0	6.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	17111	e6a91b479e03c538e7111d9f8265a40b
+Windows GUI	4.0	Intel 386 or later, and compatibles	2015:10:21 15:15:36+00:00	12288	741376	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	11748	bedba9325fba353c146026a7ae970e8c
+Windows command line	5.1	Intel 386 or later, and compatibles	2016:03:10 14:33:55+00:00	75264	130048	0	5.1	PE32 executable for MS Windows (console) Intel 80386 32-bit	26043	3e18022ee50455afda6c2ea6bfdae621
+Windows GUI	5.1	Intel 386 or later, and compatibles	2015:09:20 19:58:23+00:00	28672	4096	49152	5.1	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	80512	fd6694f8e743f9d2677fafd6c8ce98db
+Windows GUI	6.0	Intel 386 or later, and compatibles	2017:08:03 09:50:05+00:00	969728	1536	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 Mono/.Net assembly	977522	f4e56e1c32dfa723bcc87f5da12599cb
+Windows command line	5.1	Intel 386 or later, and compatibles	2017:02:07 10:23:49+01:00	74752	145408	0	5.1	PE32 executable for MS Windows (console) Intel 80386 32-bit	25371	cfd620b6d32bcd8577e1069cc9669ea9

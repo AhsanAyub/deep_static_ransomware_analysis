@@ -1,0 +1,2 @@
+subsystem	subsystem_version	machine_type	time_stamp	code_size	initialized_data_size	unitialized_data_size	os_version	magic	pe_entry_point	md5
+Windows command line	5.2	AMD AMD64	2021:12:30 15:28:20+00:00	227840	141824	0	5.2	PE32+ executable for MS Windows (console) Mono/.Net assembly	4331527	9608c8b6c8d80fdc67b99edd3c53d3d2

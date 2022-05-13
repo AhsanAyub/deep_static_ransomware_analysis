@@ -1,0 +1,6 @@
+subsystem	subsystem_version	machine_type	time_stamp	code_size	initialized_data_size	unitialized_data_size	os_version	magic	pe_entry_point	md5
+Windows GUI	4.0	Intel 386 or later, and compatibles	2019:12:28 13:13:43+00:00	34304	2048	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit Mono/.Net assembly	42010	52e47deed3440de981bf84e22c6da710
+Windows GUI	4.0	Intel 386 or later, and compatibles	2019:10:05 02:10:25+00:00	311296	188416	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	54319	6c05aa998d0523f2855769bd30b2d0d1
+Windows GUI	4.0	Intel 386 or later, and compatibles	2017:11:19 16:50:23+00:00	163840	143360	0	4.0	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	120332	c26e4d681a6506eac09ee322862ab814
+Windows command line	5.1	Intel 386 or later, and compatibles	2019:07:15 13:43:31+00:00	144384	827392	0	5.1	PE32 executable for MS Windows (console) Intel 80386 32-bit	56337	c12ab67f2835b3a867af6c91aa3d3039
+Windows GUI	5.1	Intel 386 or later, and compatibles	2019:03:18 09:07:54+00:00	950784	322048	0	5.1	PE32 executable for MS Windows (GUI) Intel 80386 32-bit	644427	e11502659f6b5c5bd9f78f534bc38fea

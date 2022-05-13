@@ -9,7 +9,6 @@ __status__ = "Prototype"
 
 
 #import libraries
-import sys
 import os
 import glob
 import json
