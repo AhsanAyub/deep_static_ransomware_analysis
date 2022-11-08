@@ -6,7 +6,7 @@ if __name__ == '__main__':
     benign_hashes = pd.read_pickle("benign_sample_info.pkl")
     benign_hashes = benign_hashes["md5"].tolist()
 
-    vt_api_key = "f429b594917f733ec948e2966b6203fe57a5484e1d4a8a961e2c6b1b323294e5"
+    vt_api_key = ""
     headers = {
         "accept": "application/json",
         "x-apikey": vt_api_key
