@@ -2,7 +2,7 @@
 
 In this project, we investigate how similar ransomware samples collected in the same calendar year are based on the Cosine Index from 2017 to 2021. Additionally, we build machine learning classifiers to effectively identify the structural dissimilarities between 2,436 ransomware samples and 3,014 benign applications.
 
-The research project has been published at the 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications [(IEEE TrustCom 2023)]([https://attend.ieee.org/ssci-2021/](https://hpcn.exeter.ac.uk/trustcom2023/)).
+The research project has been published at the 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications [(IEEE TrustCom 2023)]((https://hpcn.exeter.ac.uk/trustcom2023/)).
 
 
 ### Citing this work
